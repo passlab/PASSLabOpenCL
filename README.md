@@ -11,3 +11,5 @@ You should be able to see oclDeviceQuery, oclVectorAdd, oclMatrixMul, etc exampl
 
 The source files of each of the examples are in src folder, from where you can use make 
 command to build it after you make changes to the source codes. 
+
+change
